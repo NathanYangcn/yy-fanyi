@@ -1,0 +1,28 @@
+{
+  "name": "aide-fanyi",
+  "version": "1.0.0",
+  "description": "这是一个中英互译的命令行工具",
+  "main": "index.js",
+  "bin": {
+    "fanyi": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "翻译"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanYangcn/yy-fanyi"
+  },
+  "bugs": {
+        "url": "https://github.com/NathanYangcn/yy-fanyi/issues"
+    },
+  "homepage": "https://github.com/NathanYangcn/yy-fanyi/issues#readme",
+  "author": "nathanyang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
+}
