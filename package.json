@@ -1,5 +1,5 @@
 {
-  "name": "aide-fanyi",
+  "name": "yy-fanyi",
   "version": "1.0.0",
   "description": "这是一个中英互译的命令行工具",
   "main": "index.js",
